@@ -4,7 +4,7 @@
 Find the security code of the **longest successful Mars mission** from the space missions log database.
 
 ## Solution Script
-The solution is implemented in @find_longest_mars_mission.awk
+The solution is implemented in [@find_longest_mars_mission.awk](./find_longest_mars_mission.awk)
 
 ## Usage
 ```bash
